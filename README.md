@@ -10,6 +10,15 @@
 - 🤖 项目有 Codex 辅助开发：架构、验证标准和取舍是我的判断，AI 加速实现。
   详见核心仓库 README 的「我的角色」一节。
 
+## 30 秒先看这四个
+
+| 项目 | 我解决的问题 | 最值得看的证据 |
+| --- | --- | --- |
+| [Axe Bobby](https://github.com/Praymo/axe-bobby-research-workbench) | 把投研线索、入场条件、风险和复盘放进同一条判断链 | 完整 Web 工作台、过期快照冻结确认、CI 复跑 |
+| [美债供需压力](https://github.com/Praymo/treasury-supply-demand-research) | 把“谁会接住新增美债”改写成可观察的压力指标 | 44 个完整季度、区块 bootstrap、跨时期符号翻转原样保留 |
+| [BTC 跨资产状态](https://github.com/Praymo/btc-cross-asset-regime) | 检查“BTC 上涨 = 美股 risk-on”是否成立 | 留出期改善与验证期退步同时报告 |
+| [Learning Workbench](https://github.com/Praymo/learning-workbench) | 把做题后的确认、评分证据和复查接成闭环 | 可运行本地产品、39 项规则测试、证据不足状态 |
+
 # Praymo
 
 这里放一些我做过的工具和研究。选课、学习反馈、投研复核看起来很不一样，但做下来经常碰到同一个问题：信息已经不少了，下一步该怎么判断，判断之后又怎么检查。
