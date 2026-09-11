@@ -6,7 +6,7 @@
 - 方向：量化研究 / AI 工具工程
 - 常用：Python · TypeScript · Next.js
 - 📫 praymo666@gmail.com
-- 🏠 <TODO: 个人主页链接（即将上线，放研究笔记与产品分析）>
+- 🏠 <https://zengjingrou.netlify.app/jingrou-3d>
 - 🤖 项目有 Codex 辅助开发：架构、验证标准和取舍是我的判断，AI 加速实现。
   详见核心仓库 README 的「我的角色」一节。
 
