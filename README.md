@@ -1,3 +1,15 @@
+## 你好，我是 Claire
+
+投研工具与研究。用可验证的方式做判断：研究证据、入场条件、风险边界分层，
+判断链可回看，验证不通过的基线原样保留在仓库里。
+
+- 方向：量化研究 / AI 工具工程
+- 常用：Python · TypeScript · Next.js
+- 📫 praymo666@gmail.com
+- 🏠 <TODO: 个人主页链接（即将上线，放研究笔记与产品分析）>
+- 🤖 项目有 Codex 辅助开发：架构、验证标准和取舍是我的判断，AI 加速实现。
+  详见核心仓库 README 的「我的角色」一节。
+
 # Praymo
 
 这里放一些我做过的工具和研究。选课、学习反馈、投研复核看起来很不一样，但做下来经常碰到同一个问题：信息已经不少了，下一步该怎么判断，判断之后又怎么检查。
@@ -8,7 +20,7 @@
 
 - **[学习工作台](https://github.com/Praymo/learning-workbench)**：从本地数学学习项目整理出来的产品案例。重点是练习之后如何形成反馈、保留证据，并安排下一次练习。
 - **[选课沙盘](https://github.com/Praymo/course-planner)**：在一张周课表上试排班次。时间冲突是硬限制，早课和周六则可以保留为偏好。
-- **[Axe Bobby 投研复核工作台](https://github.com/Praymo/axe-bobby-research-workbench)**：把研究理由和当前入场条件拆开。仓库有可调参数的交互沙盘，以及能离线重放的 Python 规则。
+- **[Axe Bobby 投研复核工作台](https://github.com/Praymo/axe-bobby-research-workbench)**：把研究证据、入场条件、风险边界和 Agent 事件分层，形成可审计、可复盘的 Web 工作台。
 - **[Evidence Monitor Agent](https://github.com/Praymo/evidence-monitor-agent)**：只在值得关注的状态变化时提醒；过期数据不能继续推动判断。
 
 ### 研究记录
