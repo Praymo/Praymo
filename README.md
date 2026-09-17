@@ -7,7 +7,7 @@
 - 常用：Python · TypeScript · Next.js
 - 📫 praymo666@gmail.com
 - 🏠 <https://zengjingrou.netlify.app/jingrou-3d>
-- 🤖 项目有 Codex 辅助开发：架构、验证标准和取舍是我的判断，AI 加速实现。
+- 🤖 项目有 Codex 辅助开发：架构、验证标准和取舍是我的判断，AI 加速实现。  
   详见核心仓库 README 的「我的角色」一节。
 
 ## 30 秒先看这四个
@@ -36,6 +36,12 @@
 
 - **[美债供需压力](https://github.com/Praymo/treasury-supply-demand-research)**：从买家需求的解释困难出发，构造可观察的压力指标。保留了分时期翻转和没有成功的基线。
 - **[BTC 跨资产状态](https://github.com/Praymo/btc-cross-asset-regime)**：BTC 上涨能否当成美股 risk-on？加入其他资产后，有改善，也有验证期退步。
+
+### 🌱 AI Learning
+
+我在学习 [Datawhale Hello-Agents](https://github.com/datawhalechina/hello-agents)，把理解和延伸思考整理成个人学习笔记。
+
+- [我的 Hello-Agents Fork](https://github.com/Praymo/hello-agents) · [2.1 规则写得再全，也装不下现实：从符号主义理解早期智能体](https://github.com/Praymo/hello-agents/blob/main/claire-learning-notes/chapter-2/2.1-symbolic-ai.md)
 
 ### 使用笔记
 
